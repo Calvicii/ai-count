@@ -11,5 +11,6 @@
     "scripts": ["background.js"],
     "persistent": false
   },
-  "permissions": ["tabs", "<all_urls>"]
+  "permissions": ["tabs", "<all_urls>"],
+  "data_collection_permissions": { "collected": false }
 }
